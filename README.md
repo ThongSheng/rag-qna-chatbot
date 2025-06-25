@@ -12,9 +12,9 @@ Features:
 
 Components:
 * Chat Model: `gemini-2.0-flash` (Google GenAI)
-* Embeddings Model: models/embedding-001 (Google GenAI)
-* Vector Store: InMemoryVectorStore (LangChain)
-* Document Loader: WebBaseLoader (LangChain Community)
-* Text Splitter: RecursiveCharacterTextSplitter (LangChain)
-* Workflow: LangGraph
-* Observability: LangSmith
+* Embeddings Model: `models/embedding-001` (Google GenAI)
+* Vector Store: `InMemoryVectorStore` (LangChain)
+* Document Loader: `WebBaseLoader` (LangChain Community)
+* Text Splitter: `RecursiveCharacterTextSplitter` (LangChain)
+* Workflow: `LangGraph`
+* Observability: `LangSmith`
