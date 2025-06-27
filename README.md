@@ -1,4 +1,4 @@
-# RQG Q&A Chatbot with LangChain, LangGraph, and Google Gemini
+# RAG Q&A Chatbot with LangChain, LangGraph, and Google Gemini
 This Q&A chatbot uses a Retrieval-Augmented Generation (RAG) architecture, integrating LangChain and LangGraph with Google Gemini models to answer questions based on information extracted from specified web pages.
 
 Features:
